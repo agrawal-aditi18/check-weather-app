@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const descriptionDisplay = document.getElementById("description");
   const errorMessage = document.getElementById("error-messag");
 
-  const API_KEY = "8c334780f0af0db99317e02beb41bf17"; //Usually stored secretly using environment variables
+  const API_KEY = "your-api-key"; //Usually stored secretly using environment variables
   //API Key provided to u that u only can make request
   //API key — like a secret password that gives you access to weather data from the OpenWeather website.
 
